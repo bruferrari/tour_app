@@ -19,6 +19,10 @@
     <string name="latim_america_memorial">Latim America Memorial</string>
     <string name="football">Football Museum</string>
     <string name="theatro_municipal">Theatro Municipal</string>
+    <string name="history">HISTORY</string>
+    <string name="food">FOOD</string>
+    <string name="touristic">TOURISTIC</string>
+    <string name="city">CITY</string>
 
 
     <string name="light_station_address">"Praça da Luz, 1, Luz, São Paulo-SP"</string>
