@@ -1,0 +1,21 @@
+
+l
+<app/src/main/java/com/bferrari/tourapp/ViewPagerAdapter.java,1/a/1a6b8e70278c9ae233c35edc346edc089e844cb9
+o
+?app/src/main/java/com/bferrari/tourapp/RestaurantsFragment.java,9/b/9ba582c5208772916bb052852b97ef9411f94db1
+h
+8app/src/main/java/com/bferrari/tourapp/MainActivity.java,9/3/93eddd86af03d942395b474ea29ac73c2ca351bc
+h
+8app/src/main/java/com/bferrari/tourapp/CityFragment.java,7/d/7d2eed2a45571ca83cdbf8d5bd8c7fbcbae5a1e7
+h
+8app/src/main/java/com/bferrari/tourapp/TourFragment.java,2/9/29c5e7baf2c8545c1d423d25ca2524188222c1fb
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+a
+1app/src/main/java/com/bferrari/tourapp/Place.java,5/7/57ed0c02b51fac1256f56a6b1625107b27637cb0
+h
+8app/src/main/java/com/bferrari/tourapp/PlaceAdapter.java,0/4/04743b6b6336554af4a8784a52203bf52838fe6c
+h
+8app/src/main/java/com/bferrari/tourapp/MainFragment.java,8/3/83f337d4ece477fcead3db82fb734ca0cae43684
