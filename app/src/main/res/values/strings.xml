@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">TourApp</string>
+    <string name="light_station">Light Station</string>
+    <string name="light_park">Light Park</string>
+    <string name="municipal_market">Municipal Market</string>
+    <string name="ibirapuera">Ibirapuera Park</string>
+    <string name="monastery">Monastery São Bento</string>
+    <string name="cathedral">São Paulo Cathedral</string>
+    <string name="caixa_museum">Caixa Econômica Federal Museum</string>
+    <string name="telephone_museum">Telephone Museum</string>
+    <string name="independency_park">Independency Park</string>
+    <string name="by_koji">By Koji</string>
+    <string name="brace_bar">Brace Bar e Griglia</string>
+    <string name="brasserie_victoria">Brasserie Victória</string>
+    <string name="comedoria">Comedoria Gonzales</string>
+    <string name="tuju">Tuju</string>
+    <string name="masp">São Paulo Museum of Art</string>
+    <string name="aquarium">São Paulo Aquarium</string>
+    <string name="latim_america_memorial">Latim America Memorial</string>
+    <string name="football">Football Museum</string>
+    <string name="theatro_municipal">Theatro Municipal</string>
+
+
+    <string name="light_station_address">"Praça da Luz, 1, Luz, São Paulo-SP"</string>
+    <string name="light_park_address">Praça da Luz, s/n, Luz, São Paulo-SP (em frente a Estação da Luz)</string>
+    <string name="municipal_market_addr">Rua Cantareira, 306, Centro, São Paulo-SP.</string>
+    <string name="ibirapuera_addr">Avenida Pedro Alvares Cabral, São Paulo</string>
+    <string name="monastery_addr">Largo de São Bento, s/n – Centro, São Paulo – SP.</string>
+    <string name="cathedral_addr">Cathedral Square, s / n - Centro - São Paulo (Metro)</string>
+    <string name="caixa_museum_addr">Caixa Cultural Pc Se, 111 - São Paulo</string>
+    <string name="telephone_museum_addr">Rua Benjamin Constant 174 - 5 andar, Centro</string>
+    <string name="independency_park_addr">Parque da Independência, Ipiranga, São Paulo</string>
+    <string name="by_koji_addr">Pça. Roberto Gomes Pedrosa, São Paulo, SP 05653-070, Brazil</string>
+    <string name="brace_bar_addr">Eataly São Paulo, SP 04543-011, Brazil</string>
+    <string name="brasserie_victoria_addr">Av. Pres. Juscelino Kubitschek 545, São Paulo, SP, 04543-010, Brazil</string>
+    <string name="comedoria_addr">Mercado Municipal de Pinheiros São Paulo, SP 05421-040, Brazil</string>
+    <string name="tuju_addr">R. Fradique Coutinho 1248, São Paulo, SP 05416-001, Brazil</string>
+    <string name="masp_addr">Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200</string>
+    <string name="aquarium_addr">R. Huet Bacelar, 407 - Ipiranga, São Paulo - SP, 04275-000</string>
+    <string name="latim_america_memorial_addr">Av. Auro Soares de Moura Andrade, 664 - Barra Funda, São Paulo - SP, 01156-001</string>
+    <string name="theatro_municipal_addr">Praça Ramos de Azevedo, s/n - República, São Paulo - SP, 01037-010</string>
+    <string name="football_addr">Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010</string>
+
+
 </resources>

@@ -1,3 +1,4 @@
 
+xsquid:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(ΔϊΞ¤ÿÿÿÿÿ8ήνΎω+
+}squid:S1450"\Remove the "mRecyclerView" field and declare it as a local variable in the relevant methods.(Òιύÿÿÿÿ8ήνΎω+
 ›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ν–υÿϋÿÿÿÿ
-<squid:S1185"(Remove this method to simply inherit it.(¥Λ©

@@ -49,10 +49,10 @@ public class TourFragment extends Fragment {
     }
 
     private void fillListWithData() {
-        mPlaces.add(new Place("São Paulo Museum of Art", "Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200", R.drawable.p_sp_masp_r));
-        mPlaces.add(new Place("São Paulo Aquarium", "R. Huet Bacelar, 407 - Ipiranga, São Paulo - SP, 04275-000", R.drawable.aquario));
-        mPlaces.add(new Place("Latin America Memorial", "Av. Auro Soares de Moura Andrade, 664 - Barra Funda, São Paulo - SP, 01156-001", R.drawable.fundacao_memorial_da_america_latina));
-        mPlaces.add(new Place("Football Museum", "Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010", R.drawable.museufutebol));
-        mPlaces.add(new Place("Theatro Municipal", "Praça Ramos de Azevedo, s/n - República, São Paulo - SP, 01037-010", R.drawable.saguao_do_theatro_municipal_de_sao_paulo_sp_no_vale_do_anhangabau));
+        mPlaces.add(new Place(getString(R.string.masp), getString(R.string.masp_addr), R.drawable.p_sp_masp_r));
+        mPlaces.add(new Place(getString(R.string.aquarium), getString(R.string.aquarium_addr), R.drawable.aquario));
+        mPlaces.add(new Place(getString(R.string.latim_america_memorial), getString(R.string.latim_america_memorial_addr), R.drawable.fundacao_memorial_da_america_latina));
+        mPlaces.add(new Place(getString(R.string.football), getString(R.string.football_addr), R.drawable.museufutebol));
+        mPlaces.add(new Place(getString(R.string.theatro_municipal), getString(R.string.theatro_municipal_addr), R.drawable.saguao_do_theatro_municipal_de_sao_paulo_sp_no_vale_do_anhangabau));
     }
 }

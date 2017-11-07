@@ -49,10 +49,10 @@ public class CityFragment extends Fragment {
     }
 
     private void fillListWithData() {
-        mPlaces.add(new Place("Light Station", "Praça da Luz, 1, Luz, São Paulo-SP", R.drawable.turismo_centro_de_sao_paulo_luz));
-        mPlaces.add(new Place("Light Park", "Praça da Luz, s/n, Luz, São Paulo-SP (em frente a Estação da Luz)", R.drawable.jardim_da_luz_centro_sp));
-        mPlaces.add(new Place("Municipal Market", "Rua Cantareira, 306, Centro, São Paulo-SP.", R.drawable.centro_de_sao_paulo_mercadao));
-        mPlaces.add(new Place("Ibirapuera Park", "Avenida Pedro Alvares Cabral, São Paulo", R.drawable.ibirapuera_park));
-        mPlaces.add(new Place("Monastery São Bento", "Largo de São Bento, s/n – Centro, São Paulo – SP.", R.drawable.centro_de_sao_paulo_o_que_fazer));
+        mPlaces.add(new Place(getString(R.string.light_station), getString(R.string.light_station_address), R.drawable.turismo_centro_de_sao_paulo_luz));
+        mPlaces.add(new Place(getString(R.string.light_park), getString(R.string.light_park_address), R.drawable.jardim_da_luz_centro_sp));
+        mPlaces.add(new Place(getString(R.string.municipal_market), getString(R.string.municipal_market_addr), R.drawable.centro_de_sao_paulo_mercadao));
+        mPlaces.add(new Place(getString(R.string.ibirapuera), getString(R.string.ibirapuera_addr), R.drawable.ibirapuera_park));
+        mPlaces.add(new Place(getString(R.string.monastery), getString(R.string.monastery_addr), R.drawable.centro_de_sao_paulo_o_que_fazer));
     }
 }

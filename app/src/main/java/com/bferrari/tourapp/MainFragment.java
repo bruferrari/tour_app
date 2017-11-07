@@ -49,10 +49,10 @@ public class MainFragment extends Fragment {
     }
 
     private void fillListWithData() {
-        mPlaces.add(new Place("São Paulo Cathedral", "Cathedral Square, s / n - Centro - São Paulo (Metro)", R.drawable.saopaulocathedral_1t));
-        mPlaces.add(new Place("Caixa Econômica Federal Museum", "Caixa Cultural Pc Se, 111 - São Paulo", R.drawable.caixaeconomicafederalmuseum_1t));
-        mPlaces.add(new Place("Telephone Museum", "Rua Benjamin Constant 174 - 5 andar, Centro", R.drawable.telefonemuseum_1t));
-        mPlaces.add(new Place("Ibirapuera Park", "Avenida Pedro Alvares Cabral, São Paulo", R.drawable.ibirapuera_park));
-        mPlaces.add(new Place("Independency Park", "Parque da Independência, Ipiranga, São Paulo", R.drawable.brazil_sao_paulo_parque_independancia));
+        mPlaces.add(new Place(getString(R.string.cathedral), getString(R.string.cathedral_addr), R.drawable.saopaulocathedral_1t));
+        mPlaces.add(new Place(getString(R.string.caixa_museum), getString(R.string.caixa_museum_addr), R.drawable.caixaeconomicafederalmuseum_1t));
+        mPlaces.add(new Place(getString(R.string.telephone_museum), getString(R.string.telephone_museum_addr), R.drawable.telefonemuseum_1t));
+        mPlaces.add(new Place(getString(R.string.ibirapuera), getString(R.string.ibirapuera_addr), R.drawable.ibirapuera_park));
+        mPlaces.add(new Place(getString(R.string.independency_park), getString(R.string.independency_park_addr), R.drawable.brazil_sao_paulo_parque_independancia));
     }
 }

@@ -1,8 +1,6 @@
 
 l
 <app/src/main/java/com/bferrari/tourapp/ViewPagerAdapter.java,1/a/1a6b8e70278c9ae233c35edc346edc089e844cb9
-o
-?app/src/main/java/com/bferrari/tourapp/RestaurantsFragment.java,9/b/9ba582c5208772916bb052852b97ef9411f94db1
 h
 8app/src/main/java/com/bferrari/tourapp/MainActivity.java,9/3/93eddd86af03d942395b474ea29ac73c2ca351bc
 h
@@ -19,3 +17,5 @@ h
 8app/src/main/java/com/bferrari/tourapp/PlaceAdapter.java,0/4/04743b6b6336554af4a8784a52203bf52838fe6c
 h
 8app/src/main/java/com/bferrari/tourapp/MainFragment.java,8/3/83f337d4ece477fcead3db82fb734ca0cae43684
+h
+8app/src/main/java/com/bferrari/tourapp/FoodFragment.java,7/a/7a949b4c883cb55650a399a5188398a22e83a91a

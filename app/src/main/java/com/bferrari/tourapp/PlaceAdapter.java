@@ -31,6 +31,8 @@ public class PlaceAdapter extends RecyclerView.Adapter<PlaceAdapter.ViewHolder> 
         private TextView locationAddress;
         private ImageView locationImage;
 
+        private static final String MAPS_URI = "http://maps.google.com/maps?q=";
+
         public ViewHolder(View itemView) {
             super(itemView);
             locationName = itemView.findViewById(R.id.location_name);
@@ -43,8 +45,7 @@ public class PlaceAdapter extends RecyclerView.Adapter<PlaceAdapter.ViewHolder> 
         @Override
         public void onClick(View view) {
             Place place = mPlaces.get(getAdapterPosition());
-            String uri = "http://maps.google.com/maps?q=" + place.getAddress();
-            mContext.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(uri)));
+            mContext.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(MAPS_URI + place.getAddress())));
         }
     }
 

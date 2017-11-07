@@ -49,10 +49,10 @@ public class FoodFragment extends Fragment {
     }
 
     private void fillListWithData() {
-        mPlaces.add(new Place("By Koji", "Pça. Roberto Gomes Pedrosa, São Paulo, SP 05653-070, Brazil", R.drawable.bykoji));
-        mPlaces.add(new Place("Brace Bar e Griglia", "Eataly São Paulo, SP 04543-011, Brazil", R.drawable.bracebaregriglia));
-        mPlaces.add(new Place("Brasserie Victória", "Av. Pres. Juscelino Kubitschek 545, São Paulo, SP 04543-010, Brazil", R.drawable.brasserie_victoria_sfiha));
-        mPlaces.add(new Place("Comedoria Gonzales", "Mercado Municipal de Pinheiros São Paulo, SP 05421-040, Brazil", R.drawable.comedoria_gonzales_ceviche));
-        mPlaces.add(new Place("TUJU", "R. Fradique Coutinho 1248, São Paulo, SP 05416-001, Brazil", R.drawable.tuju));
+        mPlaces.add(new Place(getString(R.string.by_koji), getString(R.string.by_koji_addr), R.drawable.bykoji));
+        mPlaces.add(new Place(getString(R.string.brace_bar), getString(R.string.brace_bar_addr), R.drawable.bracebaregriglia));
+        mPlaces.add(new Place(getString(R.string.brasserie_victoria), getString(R.string.brasserie_victoria_addr), R.drawable.brasserie_victoria_sfiha));
+        mPlaces.add(new Place(getString(R.string.comedoria), getString(R.string.comedoria_addr), R.drawable.comedoria_gonzales_ceviche));
+        mPlaces.add(new Place(getString(R.string.tuju), getString(R.string.tuju_addr), R.drawable.tuju));
     }
 }
